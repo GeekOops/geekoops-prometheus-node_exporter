@@ -1,0 +1,5 @@
+#SPDX-License-Identifier: MIT-0
+---
+# defaults file for geekoops-prometheus-node_exporter
+
+prometheus_node_exporter_args: ''
